@@ -1,0 +1,2 @@
+# Internal-Climate-Variability-Species-Distribution-Models
+Interactive app exploring how CESM2-LENS2 initial condition uncertainty affects Species Distribution Model projections. Select habitat, species, time period, and ensemble member (1–100) to visualize variability in future distributions. Includes navigation/animation modes and summary metrics (e.g., area change %) with multi-species comparison.
